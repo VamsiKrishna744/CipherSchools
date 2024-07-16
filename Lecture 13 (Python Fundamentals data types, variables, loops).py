@@ -2,7 +2,7 @@
 
 
 #variables
-name="laxman reddy"
+name="Vamsi Krishna"
 age =21
 print(name)
 print(age)
